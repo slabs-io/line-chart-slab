@@ -1,3 +1,2 @@
-# simple-grid
->A simple grid output slab
-
+# line-chart-slab
+A simple line chart slab
