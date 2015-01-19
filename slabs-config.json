@@ -1,0 +1,6 @@
+{
+  "name" : "line-chart",
+  "type" : "output",
+  "connectionsIn" : 1,
+  "connectionsOut" : 0
+}
