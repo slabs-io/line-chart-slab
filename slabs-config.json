@@ -1,6 +1,21 @@
 {
-  "name" : "line-chart",
+  "name" : "Line Chart",
+  "description" : "A simple line chart",
   "type" : "output",
   "connectionsIn" : 1,
-  "connectionsOut" : 0
+  "connectionsOut" : 0,
+  "schema" : {
+    "type": "object",
+    "properties" : {
+      "title": {
+        "type": "string",
+        "default": "Line Chart",
+        "title": "Chart Title"
+      }
+    }
+  },
+  "source": {
+    "label": "Core Slab",
+    "url": "http://slabs.io/"
+  }
 }
