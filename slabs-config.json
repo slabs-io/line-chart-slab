@@ -11,7 +11,8 @@
       "title": {
         "type": "string",
         "default": "Line Chart",
-        "title": "Chart Title"
+        "title": "Chart Title",
+        "brief": "Title"
       }
     }
   },
